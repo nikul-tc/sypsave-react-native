@@ -79,7 +79,7 @@ export const Splash = ({ isAppReady }) => {
 const style = StyleSheet.create({
   container: {
     ...StyleSheet.absoluteFillObject,
-    backgroundColor: '#F96900   ',
+    backgroundColor: '#F96900',
     alignItems: "center",
     justifyContent: "center",
   },

@@ -1,8 +1,10 @@
 import React from 'react';
 import {Box} from 'native-base';
 
-export default function Home() {
+const Home = () => {
   return (
     <Box>Nikul</Box>
   );
 }
+
+export default Home;
